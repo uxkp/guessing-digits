@@ -13,7 +13,7 @@ BACKGROUND_COLOR = (255, 255, 255)
 
 # setting up a pygame window and its title.
 WIN = pygame.display.set_mode((WIDTH, HEIGHT))
-pygame.display.set_caption("Digit Guesser")
+pygame.display.set_caption("Digit Demo")
 
 # initialising the matrix, which is going to store the values of each pixels.
 matrix = []
